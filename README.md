@@ -33,4 +33,5 @@ predict:
 <h3>微调ResNet50模型预测结果</h3><br>
 ![Image text](https://github.com/KeepTryingTo/-/blob/main/images/resnet50_1.png)<br>
 ![Image text](https://github.com/KeepTryingTo/-/blob/main/images/resnet50_2.png)<br>
+<a href='https://github.com/KeepTryingTo/-/blob/main/images/resnet50_2.png'>https://github.com/KeepTryingTo/-/blob/main/images/resnet50_2.png</a>
 
