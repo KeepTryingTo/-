@@ -10,12 +10,11 @@ predict:<br>
       cd Flask<br>
       python Flask.py<br>
       
-<h1>（1）VGG16网络结构：</h1><br>
-<a>https://mydreamambitious.blog.csdn.net/article/details/123943751</a><br>
-[](https://mydreamambitious.blog.csdn.net/article/details/123943751)
+<h3>（1）VGG16网络结构：</h3><br>
+<a href='https://mydreamambitious.blog.csdn.net/article/details/123943751'>https://mydreamambitious.blog.csdn.net/article/details/123943751</a><br>
 
-<h1>（2） VGG16特征提取：</h1><br>
-<a>https://mydreamambitious.blog.csdn.net/article/details/123943372</a><br>
+<h3>（2） VGG16特征提取：</h3><br>
+<a href='https://mydreamambitious.blog.csdn.net/article/details/123943372'>https://mydreamambitious.blog.csdn.net/article/details/123943372</a><br>
 
-<h1>（3）有关微调和迁移学习：</h1><br>
-<a>https://mydreamambitious.blog.csdn.net/article/details/123906833</a>
+<h3>（3）有关微调和迁移学习：</h3><br>
+<a href='https://mydreamambitious.blog.csdn.net/article/details/123906833'>https://mydreamambitious.blog.csdn.net/article/details/123906833</a>
