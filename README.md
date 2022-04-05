@@ -28,9 +28,9 @@ predict:
 <hr>
 <h3>This is four images</h3><br>
 <h3>VGG16模型预测结果</h3><br>
-![image](https://github.com/KeepTryingTo/-/blob/main/images/vgg16_1.png)<br>
-![image](https://github.com/KeepTryingTo/-/blob/main/images/vgg16_2.png)<br>
+![Image text](https://github.com/KeepTryingTo/-/blob/main/images/vgg16_1.png)<br>
+![Image text](https://github.com/KeepTryingTo/-/blob/main/images/vgg16_2.png)<br>
 <h3>微调ResNet50模型预测结果</h3><br>
-![image](https://github.com/KeepTryingTo/-/blob/main/images/resnet50_1.png)<br>
-![image](https://github.com/KeepTryingTo/-/blob/main/images/resnet50_2.png)<br>
+![Image text](https://github.com/KeepTryingTo/-/blob/main/images/resnet50_1.png)<br>
+![Image text](https://github.com/KeepTryingTo/-/blob/main/images/resnet50_2.png)<br>
 
