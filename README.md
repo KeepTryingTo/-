@@ -26,12 +26,16 @@ predict:
 <a href='https://mydreamambitious.blog.csdn.net/article/details/123906833'>https://mydreamambitious.blog.csdn.net/article/details/123906833</a>
 <br>
 <hr>
-<h3>This is four images</h3><br>
+<h3>This is about prediction's four images</h3><br>
 <h3>VGG16模型预测结果</h3><br>
 ![Image text](https://github.com/KeepTryingTo/-/blob/main/images/vgg16_1.png)<br>
+<img src='https://github.com/KeepTryingTo/-/blob/main/images/vgg16_1.png'><br>
 ![Image text](https://github.com/KeepTryingTo/-/blob/main/images/vgg16_2.png)<br>
+<img src='https://github.com/KeepTryingTo/-/blob/main/images/vgg16_2.png'><br>
+<hr>
 <h3>微调ResNet50模型预测结果</h3><br>
 ![Image text](https://github.com/KeepTryingTo/-/blob/main/images/resnet50_1.png)<br>
+<img src='https://github.com/KeepTryingTo/-/blob/main/images/resnet50_1.png><br>
 ![Image text](https://github.com/KeepTryingTo/-/blob/main/images/resnet50_2.png)<br>
-<img src='https://github.com/KeepTryingTo/-/blob/main/images/resnet50_2.png'>
+<img src='https://github.com/KeepTryingTo/-/blob/main/images/resnet50_2.png'><br>
 
